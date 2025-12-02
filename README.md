@@ -1,0 +1,52 @@
+# 13.3g – Inside Out
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+大丈夫さ君なら
+心配いらないから
+躓いてもまた立ち上がれなんて
+ケーキのストロベリー
+美味しいとこばっか映して
+心のスポンジ穴だらけ
+退屈な日々 浮かない顔で
+カップの底に吸い込まれてく
+浴びる言葉は右へ左へ
+狭い部屋から抜け出して
+ここは君だけの そう金曜日
+Let's dance in music
+最高のリズムで
+現状に囚われすぎないで
+I like to move it
+新しいイメージ触れてみて
+画面に刺さる鋭利な言葉
+とにもかくにも窮屈すぎて
+ナイフ片手に威嚇しては
+傷つくこと恐れてる
+でも縛られる事は無いから
+Let's dance in music
+磨り減るスニーカー
+愛情を吸い込んじゃえばいいよ
+I like to move it
+揺らして吐き出してキスをして
+Let's dance in music
+Let's dance in music
+I like to move it
+I like to move it
+Let's dance in music
+Let's dance in music
+最高のリズムで
+現状に囚われすぎないで
+I like to move it
+新しいイメージ触れてみて
+Let's dance in music
+磨り減るスニーカー
+愛情を吸い込んじゃえばいいよ
+I like to move it
+揺らして吐き出してキスをして
+抱き寄せて Let's dance
+Let's dance in music
+Let's dance in music
+I like to move it
+I like to move it
+```
