@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Inside Out",
+  "base_artist": "13.3g",
+  "createdAt": "2025-12-02T07:33:23.147290Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Inside_Out_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turn Each Other Inside Out",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/02_Turn_Each_Other_Inside_Out_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turn Each Other Inside Out (Live)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/03_Turn_Each_Other_Inside_Out_(Live)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Bladee feat. Yung Lean",
+      "has_synced": true,
+      "path": "select/04_Inside_Out_Bladee_feat._Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Inside Out (feat. Yung Lean)",
+      "artist": "Bladee",
+      "has_synced": false,
+      "path": "select/05_Inside_Out_(feat._Yung_Lean)_Bladee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/06_Inside_Out_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Shara Nelson",
+      "has_synced": false,
+      "path": "select/07_Inside_Out_Shara_Nelson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Crowded House",
+      "has_synced": true,
+      "path": "select/08_Inside_Out_Crowded_House.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turn Me Inside Out",
+      "artist": "Wendy & Lisa",
+      "has_synced": false,
+      "path": "select/09_Turn_Me_Inside_Out_Wendy_&_Lisa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Culture Beat",
+      "has_synced": false,
+      "path": "select/10_Inside_Out_Culture_Beat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Inside Out - Not Normal Mix",
+      "artist": "Culture Beat",
+      "has_synced": false,
+      "path": "select/11_Inside_Out_-_Not_Normal_Mix_Culture_Beat.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Saturday Night Inside Out",
+      "artist": "The Avalanches",
+      "has_synced": false,
+      "path": "select/12_Saturday_Night_Inside_Out_The_Avalanches.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/13_Inside_Out_Beck.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/14_Inside_Out_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "The Chainsmokers feat. Charlee",
+      "has_synced": false,
+      "path": "select/15_Inside_Out_The_Chainsmokers_feat._Charlee.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Inside Out",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/16_Inside_Out_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Man Turned Inside Out",
+      "artist": "Devo",
+      "has_synced": false,
+      "path": "select/17_Man_Turned_Inside_Out_Devo.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Inside + Out - Apostle Of Hustle Unmix",
+      "artist": "Feist",
+      "has_synced": false,
+      "path": "select/18_Inside_+_Out_-_Apostle_Of_Hustle_Unmix_Feist.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Inside+Out [Apostle of Hustle UnMix Live at the BBC]",
+      "artist": "Feist",
+      "has_synced": false,
+      "path": "select/19_Inside+Out_[Apostle_of_Hustle_UnMix_Live_at_the_BBC]_Feist.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Inside Out",
+      "artist": "13.3g",
+      "has_synced": false,
+      "path": "select/pl_01_Inside_Out_13.3g.txt"
+    }
+  ]
+}
